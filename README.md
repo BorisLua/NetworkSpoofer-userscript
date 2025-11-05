@@ -1,4 +1,6 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorisLua&layout=compact&repo=NetworkSpoofer-userscript)
+![Followers](https://img.shields.io/github/followers/BorisLua?style=social)
+![Repos](https://img.shields.io/github/repos/BorisLua?style=flat-square)
+![License](https://img.shields.io/github/license/BorisLua/NetworkSpoofer-userscript)
 
 
 # Network Spoofer
