@@ -1,11 +1,10 @@
 ![Followers](https://img.shields.io/github/followers/BorisLua?style=social)
-![Repos](https://img.shields.io/github/repos/BorisLua?style=flat-square)
-![License](https://img.shields.io/github/license/BorisLua/NetworkSpoofer-userscript)
+
 
 
 # Network Spoofer
 
-[Baixar](https://cdn.jsdelivr.net/gh/BorisLua/NetworkSpoofer-userscript@main/spoof.user.js)
+[![Importar ao Tampermonkey](https://img.shields.io/badge/Importar%20ao%20Tampermonkey-CDN-blue?style=for-the-badge&logo=js)](https://cdn.jsdelivr.net/gh/BorisLua/NetworkSpoofer-userscript@main/spoof.user.js)
 
 Teste uma simulação de erro no site, útil para testar a reação do website com erros.
 
