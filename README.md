@@ -2,7 +2,7 @@
 
 
 
-# Network Spoofer ![JavaScript](https://cdn.simpleicons.org/javascript/24) 
+# Network Spoofer ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black)
 
 [![Importar ao Tampermonkey](https://img.shields.io/badge/Importar%20ao%20Tampermonkey-V1-blue?style=for-the-badge&logo=js)](https://cdn.jsdelivr.net/gh/BorisLua/NetworkSpoofer-userscript@main/spoof.user.js)
 
